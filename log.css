@@ -1,0 +1,41 @@
+.forimg{
+    width: 300px;
+    border-radius: 150px;
+    height: 300px;
+}
+.cardDiv{
+    text-align: center;
+}
+.pDiv{
+    width: 400px;
+    margin-left: 480px;
+}
+.BorderDiv{
+    width: 400px;
+    margin-left: 500px;
+    border: 1px solid white;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+.body{
+    text-align: center;
+    background-color: lightcoral;
+}
+.prev{
+   position: relative;
+   right: 500px;
+   bottom: 200px;
+}
+
+.next {
+    position: relative;
+    left: 500px;
+    bottom: 200px;
+}
+
+.ForPhoto{
+    width: 300px;
+        border-radius: 150px;
+        height: 300px;
+}
